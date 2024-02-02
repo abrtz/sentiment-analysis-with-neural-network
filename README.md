@@ -5,7 +5,7 @@ This repository contains the notebooks to build my own neural network to perform
 
 The neural network was built following the steps described in the book Make Your Own Neural Network by Tariq Rashid (2016).
 
-Notebooks 01 and 02 contain the code from the abovementioned book to create a NN for image recognition.
+Notebooks 01 and 02 contain the code applied following the code proposed in the abovementioned book to create a NN for image recognition.
 
 Notebooks 03 and 04 contain the code to explore the dataset to perform the sentiment analysis task.
 
