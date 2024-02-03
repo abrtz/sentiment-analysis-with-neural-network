@@ -13,3 +13,4 @@ Notebooks 05, 06 and 07 contain the code with the experiments carried out for th
 * 05: sentiment classification with a BoW vector counting bigrams with a minimum frequency of 300.
 * 06: sentiment classification with a padded vector created from an n-gram BoW mapping the indices of words appearing in the vector to those appearing in each text.
 * 07: sentiment classification with a word embedding padded vector.
+* 08: hyperparameter tuning on neural network model with word embedding.
