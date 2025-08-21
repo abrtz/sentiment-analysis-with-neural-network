@@ -47,10 +47,10 @@ The neural network was built following the steps described in the book Make Your
 ## Requirements
 
 To run these experiments, make sure libraries required are installed. They are listed in the `requirements.txt` file.
-
+The experiments were run in Python 3.11.8.
 They can be installed with the following command:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ## README
