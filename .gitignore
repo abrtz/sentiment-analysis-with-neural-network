@@ -2,8 +2,7 @@
 ######################
 .DS_Store
 .DS_Store?
-book_nn_code/mnist_dataset/*.txt
-book_nn_code/mnist_dataset/*.csv
+book_nn_code/
 __pycache__/
 models/
 sephora-data/
